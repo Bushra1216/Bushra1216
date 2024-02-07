@@ -1,7 +1,7 @@
-[![MasterHead](https://github.com/Bushra1216/Bushra1216/blob/main/image.png)
+![MasterHead](https://github.com/Bushra1216/Bushra1216/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Shanjida Jahan</h1>
 <h3 align="center">Explorer of the Digital Frontier</h3>
-
+<br>
 <img align="right" alt="explore" width="390" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 🌱 I’m currently learning everything 😆
