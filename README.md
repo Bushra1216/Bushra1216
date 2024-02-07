@@ -4,7 +4,7 @@
 <br>
 <img align="right" alt="explore" width="390" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🌱 I’m currently learning everything 😆
+- I’m currently learning everything 😆
 - 💻 All of my projects are available at [https://github.com/Bushra1216](https://github.com/Bushra1216)
 - 📫 How to reach me **shanjidabushra@gmail.com**
   
