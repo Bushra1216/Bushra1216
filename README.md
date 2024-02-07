@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shanjida Jahan</h1>
 <h3 align="center">Explorer of the Digital Frontier</h3>
 
-<img align="right" alt="explore" width="350" src="https://cdnb.artstation.com/p/assets/images/images/023/541/587/original/janaeither-t-profile-gif.gif?1579549292">
+<img align="right" alt="explore" width="320" src="https://cdnb.artstation.com/p/assets/images/images/023/541/587/original/janaeither-t-profile-gif.gif?1579549292">
 
 - 🌱 I’m currently learning everything 😆
 - 💻 All of my projects are available at [https://github.com/Bushra1216](https://github.com/Bushra1216)
