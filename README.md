@@ -49,16 +49,15 @@ I am an aspiring Data Analyst with a background in Computer Science & Engineerin
 
 ### GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Bushra1216&show_icons=true&theme=radical" alt="bushra1216" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bushra1216&theme=radical" alt="bushra1216" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <img  src="https://github-readme-stats.vercel.app/api?username=Bushra1216&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="Bushra1216's GitHub Stats"  />
+</div>
+
+
+
+
+
 
 
 
