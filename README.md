@@ -53,7 +53,7 @@ I am an aspiring Data Analyst with a background in Computer Science & Engineerin
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Bushra1216&theme=dark-smoky)](https://git.io/streak-stats)
- <img  src="https://github-readme-stats.vercel.app/api?username=Bushra1216&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="Bushra1216's GitHub Stats"  />
+
 
 </div>
 
