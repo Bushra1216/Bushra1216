@@ -50,12 +50,7 @@ I am an aspiring Data Analyst with a background in Computer Science & Engineerin
 ### 
 <br>
 
-<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Bushra1216&theme=dark-smoky)](https://git.io/streak-stats)
-
-
-</div>
 
 
 
