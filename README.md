@@ -12,7 +12,7 @@ I am an aspiring Data Analyst with a background in Computer Science & Engineerin
   <img align="right" alt="explore" width="300" height="164" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
   
   - I’m currently learning everything 😆</p>
-  - 💻 All of my projects are available at <a href="https://github.com/Bushra1216" target="_blank">GitHub</a></p> <br><br>
+  - 💻 All of my projects are available at <a href="https://github.com/Bushra1216?tab=repositories" target="_blank">GitHub</a></p> <br><br>
 
 
 
